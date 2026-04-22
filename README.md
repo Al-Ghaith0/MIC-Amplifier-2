@@ -14,7 +14,7 @@ bandwidth: 500hz - 7khz
 also suffered from noise and instability
 
 Analysis:
-~Gain reduction due to no CMFB(common mode differential circuit) added to the cascode stage and mismatch in components
+~Gain reduction due to no CMFB(common mode feedback) added to the cascode stage and mismatch in components
 ~Bandwidth reduction because i had to harshly compnsate the circuit due to instability it suffered from
 
 noise and instablility due to:
