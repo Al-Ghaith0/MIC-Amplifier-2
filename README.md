@@ -1,5 +1,5 @@
 # MIC-Amplifier-2
-Prototype test for an amplifier i designed
+Prototype test for an amplifier i designed for educational purposes
 I used Altium for design and HSpice for simulation
 two amplification stages and bufferings (LN pnp CC stage + differential cascode + buffer + CE + buffering) all with active loads and mirrors
 closed loop amplifier
